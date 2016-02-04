@@ -6,15 +6,15 @@
   "env": {
     "COMMUNITY_NAME": {
       "description": "Your team name",
-      "value": "YOUR TEAM NAME"
+      "value": "CM Management"
     },
     "SLACK_URL": {
       "description": "Your slack url(ex: socketio.slack.com)",
-      "value": "YOUR-TEAM.slack.com"
+      "value": "cmmanagement.slack.com"
     },
     "SLACK_TOKEN": {
       "description": "access token of slack, You can generate it in https://api.slack.com/web#auth",
-      "value": ""
+      "value": "xoxp-2660321107-2660321109-2802360955-0f2736"
     },
     "INVITE_TOKEN": {
       "description": "Shared invite token used to get access. Leave blank if you don't want users to have to provide a token.",
